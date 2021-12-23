@@ -1,2 +1,2 @@
 # Inventory-Management-System
-A web application to mange inventory.
+A web application to manage inventory.
